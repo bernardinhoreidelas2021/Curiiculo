@@ -1,0 +1,35 @@
+body {
+    background-color: antiquewhite;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-position: right top;
+    border: 10px solid white; 
+    padding: 25px; 
+    margin: 10px;
+
+} 
+
+
+
+h1 {
+    color: red; 
+} 
+ h2 {
+    color :brown;
+    border-style: solid;
+ } 
+
+ p#Paragraf1 {
+    color : blueviolet;
+ } 
+
+ h2#Dados {
+    background-position: right top;
+    margin-top: 50 px ;
+    margin-left: 12%;
+} 
+p#dados {
+    background-position: right top;
+    margin-top: 50 px ;
+    margin-left: 12%;
+}
