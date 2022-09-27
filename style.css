@@ -1,14 +1,15 @@
 body {
     background-color: antiquewhite;
-    background-image: url("");
-    background-repeat: no-repeat;
-    background-position: right top;
     border: 10px solid white; 
-    padding: 25px; 
-    margin: 10px;
+    padding: 10px; 
+    margin: 5px;
 
 } 
 
+img {
+    float: left;
+    
+}
 
 
 h1 {
